@@ -1,0 +1,25 @@
+{
+  "name": "fitforce",
+  "version": "1.0.0",
+  "description": "Projeto de pagina para gerencia de academia",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0",
+    "gulp-load-plugins": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PauloSouza-PH/FitForce.git"
+  },
+  "author": "PauloSouza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PauloSouza-PH/FitForce/issues"
+  },
+  "homepage": "https://github.com/PauloSouza-PH/FitForce#readme"
+}
